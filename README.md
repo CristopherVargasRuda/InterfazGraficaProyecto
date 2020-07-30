@@ -5,7 +5,12 @@ Entrega final del proyecto de interfa gráfica, en el que hacemos una representa
 Original
 
 
+<div>
+    <img src="Original.png">
+</div>
 
 Creación
 
-
+<div>
+    <img src="Final.PNG">
+</div>
